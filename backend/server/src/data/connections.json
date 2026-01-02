@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jane Doe",
+    "title": "Recruiter",
+    "company": "Acme Corp",
+    "email": "jane@acme.com",
+    "notes": "Met at meetup"
+  },
+  {
+    "name": "John Smith",
+    "title": "Engineer",
+    "company": "Globex",
+    "email": "john@globex.com"
+  }
+]
